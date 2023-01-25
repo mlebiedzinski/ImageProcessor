@@ -5,6 +5,7 @@
 -The image can then be saved using the "save" button in the top of the command section panel.
 -The program can be quit using the "quit" button in the top of the command selection panel.
 
+The res folder contains a sample image, a jar file, and screenshot of what the GUI looks like with the sample image.
 
 Source of our image (dogs.png):
 - Link to image: https://unsplash.com/photos/T-0EW-SEbsE
