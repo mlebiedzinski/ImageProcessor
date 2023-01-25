@@ -1,6 +1,11 @@
--To use our program the user must first load in an image using the "load" button in the top of the command selection panel, they will then be prompted to choose a file from the computer.
+-To use our program the user must first load in an image (JPG, PNG, PPM, or BMP) using the "load" button in the top of the command selection panel, they will then be prompted to choose a file from the computer.
 -Then, using the combobox/ drop down menu of commands in the operation selection panel, the user can select a command to be performed to the image being shown. If the brighten command is chosen, a text input field is available to allow the user to type in a value to brighten or darken the image by.
 -After selecting a command, the user should click the execute button, also in the button of the browser, to initiate the action to alter the current image as specified.
 -The new altered image will appear, as well as the histogram representing respective red, green, blue, and intensity component frequencies.
 -The image can then be saved using the "save" button in the top of the command section panel.
 -The program can be quit using the "quit" button in the top of the command selection panel.
+
+
+Source of our image (dogs.png):
+- Link to image: https://unsplash.com/photos/T-0EW-SEbsE
+- Link to License details: https://unsplash.com/license
